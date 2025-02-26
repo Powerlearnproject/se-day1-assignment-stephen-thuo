@@ -115,3 +115,8 @@ Provide an example of a vague prompt and then improve it by making it clear, spe
 * Improved prompt- What do boys between the age bracket of 13-17 think about?
   The improved propmt is clearer in terms of searching for information on what boys think about when they are between the given age brackets over the vague propmt which is less clear and will only fetch general information on what boys think about
 
+ Clarity – Clearly defines the historical event 
+Specificity – Narrows the focus to age bracket 13-17
+Conciseness – when they grow up
+
+
